@@ -1,3 +1,4 @@
 ---
 grafana_defaults_path: /etc/sysconfig/grafana-server
+grafana_version: 5.0.0
 ...
